@@ -1,4 +1,4 @@
-# 6-DOF Robotic Arm
+# Cozmoclench-Differential-drive-bot
 
 ## Overview
 
@@ -19,11 +19,11 @@ This project presents the 3D CAD design of a Differential Drive robot with a gri
 1. Clone or download this repository.
 2. Open the `.SLDASM` assembly file in SOLIDWORKS.
 3. Ensure all referenced `.SLDPRT` files are available so the assembly loads correctly.
-4. Explore the assembly to inspect the robotic arm design and its components.
+4. Explore the assembly to inspect the robot's design and its components.
 
 ## Visual Preview
 
 <!-- Add a screenshot of the assembled robotic arm below -->
 
-![6-DOF-Robotic-Arm](Images/Assembly.png)
+![Cozmoclench-Differential-drive-bot-design](images/Assembly.png)
 
